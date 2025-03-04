@@ -39,11 +39,9 @@ VerbaCare 2.0 is an advanced natural language processing tool designed to detect
 2. Input the text you want to analyze for distress signals.
 
 ## Contributing
-We welcome contributions from the community! Please read our [Contributing Guidelines](CONTRIBUTING.md) for more details.
+I welcome contributions from the community!
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
 
 ## Acknowledgements
-- Thanks to everyone who has contributed to the project.
 - Special thanks to the developers and researchers who provided the foundational technologies for logistic regression and bag-of-words.

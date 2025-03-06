@@ -15,7 +15,7 @@ VerbaCare 2.0 is an advanced natural language processing tool designed to detect
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/verbacare2.0.git
+    git clone https://github.com/AshutoshTiwari0/verbacare2.0.git
     cd verbacare2.0
     ```
 

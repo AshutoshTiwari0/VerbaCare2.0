@@ -33,7 +33,7 @@ VerbaCare 2.0 is an advanced natural language processing tool designed to detect
 ## Usage
 1. Run the main application:
     ```bash
-    python main.py
+    python app.py
     ```
 
 2. Input the text you want to analyze for distress signals.

@@ -45,3 +45,5 @@ I welcome contributions from the community!
 
 ## Acknowledgements
 - Special thanks to the developers and researchers who provided the foundational technologies for logistic regression and bag-of-words.
+
+https://www.kaggle.com/datasets/aunanya875/suicidal-tweet-detection-dataset dataset link
